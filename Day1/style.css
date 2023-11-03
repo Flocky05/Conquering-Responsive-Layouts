@@ -1,9 +1,15 @@
+
+body{
+    margin: 0;
+}
 .parent{
     background-color: #23424A;
-    padding: 50px;
+    padding:3%;
     margin: 0 atuo;
 }
 .child{
     background-color: #38CFD9;
+    padding-left: 2%;
+    padding-top: 2%;
     height: 250px;
 }
