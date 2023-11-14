@@ -5,8 +5,16 @@ body{
 .container_one{
     background-color: rgb(42, 42, 95);
     color: white;
-    width: 100%;
     max-width: 720px;
+    padding:5%;
+    margin: auto ;
+}
+.container_two{
     margin: auto;
-    padding:5vw;
+    padding-left:5%;
+    padding-right:5%;
+    max-width: 720px;
+}
+.container_two.h2{
+    font-weight: bold;
 }
