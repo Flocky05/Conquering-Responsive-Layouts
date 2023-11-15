@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    background: #23424a;
+    color: white;
+    padding: 5%;
+}
+.container h2{
+    font-weight: bold;
+    font-size:2rem;
+}
+.container p{
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.btn{
+    color: black;
+    padding: 10px 22px 10px 22px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: 2px;
+    border-radius: 30px;
+    background-color: skyblue;
+
+}
